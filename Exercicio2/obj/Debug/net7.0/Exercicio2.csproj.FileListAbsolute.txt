@@ -1,0 +1,15 @@
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\bin\Debug\net7.0\Exercicio2.exe
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\bin\Debug\net7.0\Exercicio2.deps.json
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\bin\Debug\net7.0\Exercicio2.runtimeconfig.json
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\bin\Debug\net7.0\Exercicio2.dll
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\bin\Debug\net7.0\Exercicio2.pdb
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfo.cs
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\Exercicio2.dll
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\refint\Exercicio2.dll
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\Exercicio2.pdb
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\Exercicio2.genruntimeconfig.cache
+C:\Users\marcy\Documents\Floripa\Semana1\exercicio2\obj\Debug\net7.0\ref\Exercicio2.dll
